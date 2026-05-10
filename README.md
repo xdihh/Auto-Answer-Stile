@@ -1,7 +1,7 @@
 AUTO ANSWER STILE / EDUCATION PERFECT
 INCLUDES TEXT AND IMAGE ANSWERING
 
-DOWNLOAD PYTHON 3.14 from python.org
+DOWNLOAD PYTHON 3.14 from https://python.org
 
 -> on terminal execute:
 irm https://ollama.com/install.ps1 | iex
